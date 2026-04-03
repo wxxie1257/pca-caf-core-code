@@ -153,16 +153,6 @@ The scripts were organized for transparency and reproducibility of the main work
 
 before successful execution in a new environment.
 
-## Important repository note
-
-This repository contains **four core scripts only**.
-
-The updated clinicopathological integration workflow, including the revised nomogram, calibration, and DCA procedures, is already integrated into:
-
-- `03_signature_model_core.R`
-
-Therefore, no separate `cli.R` file is included in this repository.
-
 ## Study context
 
 This code package corresponds to a retrospective, multicohort transcriptomic workflow in prostate cancer and should be interpreted as a research-oriented analytical framework rather than a locked clinical decision tool.
