@@ -37,11 +37,11 @@ Run the scripts in the following order:
 
 ## Requirements
 
-Developed in R (version 4.3.x).
+Developed in R (version 4.5.1).
 
 Main packages used include:
 
-`survival` ，`survminer`, `timeROC`, `ggplot2`, `rms`, `Hmisc`, `dplyr`, `patchwork`, `dcurves`, `limma`, `tidyverse`, and `Mime1`.
+Major packages used across the scripts include Seurat, harmony, SingleR, copykat, GSVA, clusterProfiler, survival, survminer, limma, timeROC, rms, Mime1, and oncoPredict.
 
 ## Contact
 
